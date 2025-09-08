@@ -28,7 +28,7 @@ Data analysis and machine learning project predicting oil production from well d
 - Data cleaning, preprocessing, and feature engineering
 - Exploratory data analysis with visualizations
 - Regression modeling to forecast production
-[Repo Link]((https://github.com/caden-ringwood/Tripple_Ten_Projects/tree/main/Oil-Well-Prediction))
+[Repo Link](https://github.com/caden-ringwood/Tripple_Ten_Projects/tree/main/Oil-Well-Prediction)
 
 ### **Bee Keeper Game**
 A game where players control bees and ward of wasps. 
