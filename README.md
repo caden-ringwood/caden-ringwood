@@ -21,20 +21,19 @@ Here are some of my featured projects:
 A simple paint program built with Python and Tkinter.  
 - Draw shapes, lines, and change brush colors  
 - Save your artwork locally  
-[Repo Link](...)
+[Repo Link](https://github.com/caden-ringwood/Tripple_Ten_Projects/tree/main/Mini-Projects/Paint-Project)
 
 ### **Oil Well Production Prediction**
 Data analysis and machine learning project predicting oil production from well data.
 - Data cleaning, preprocessing, and feature engineering
 - Exploratory data analysis with visualizations
 - Regression modeling to forecast production
-[Repo Link](...)
+[Repo Link]((https://github.com/caden-ringwood/Tripple_Ten_Projects/tree/main/Oil-Well-Prediction))
 
-### **2D Roguelike Game in Unity**
-A game where players hunt ghosts and fight bosses.  
-- Procedurally generated levels  
-- Items and combat mechanics inspired by roguelikes  
-[Repo Link](...)
+### **Bee Keeper Game**
+A game where players control bees and ward of wasps. 
+- Simple mecanics   
+[Repo Link](https://github.com/caden-ringwood/Python-Starter-Projects/tree/main/Portfolio/Bee%20Keaper)
 
 ---
 
