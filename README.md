@@ -33,11 +33,11 @@ A simple paint program built with Python and Tkinter.
 [Repo Link](https://github.com/caden-ringwood/Tripple_Ten_Projects/tree/main/Mini-Projects/Paint-Project)
 ---
 ### **Oil Well Production Prediction**
-Data analysis and machine learning project predicting oil production from well data.
--Performed data cleaning and feature engineering on geological data to prepare it for modeling.
--Trained and evaluated multiple regression models to accurately forecast oil production volumes.
--Created visualizations with Matplotlib to analyze data and present model performance.
-[Repo Link](https://github.com/caden-ringwood/Tripple_Ten_Projects/tree/main/Oil-Well-Prediction)
+**Data analysis and machine learning project predicting oil production from well data.
+- Performed data cleaning and feature engineering on geological data to prepare it for modeling.
+- Trained and evaluated multiple regression models to accurately forecast oil production volumes.
+- Created visualizations with Matplotlib to analyze data and present model performance.
+[Repo Link](https://github.com/caden-ringwood/Tripple_Ten_Projects/tree/main/Oil-Well-Prediction)**
 ---
 ### **Gold Recovery Prediction**
 Machine learning project predicting gold recovery efficiency from ore processing data to optimize production and reduce resource losses.
@@ -73,12 +73,3 @@ Machine learning project predicting gold recovery efficiency from ore processing
 **“Code is like humor. When you have to explain it, it’s bad.” – Cory House**
 
 ---
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=caden-ringwood&show_icons=true&theme=tokyonight" alt="Caden Ringwood's GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caden-ringwood&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
