@@ -33,7 +33,7 @@ A simple paint program built with Python and Tkinter.
 [Repo Link](https://github.com/caden-ringwood/Tripple_Ten_Projects/tree/main/Mini-Projects/Paint-Project)
 ---
 ### **Oil Well Production Prediction**
-**Data analysis and machine learning project predicting oil production from well data.
+Data analysis and machine learning project predicting oil production from well data.
 - Performed data cleaning and feature engineering on geological data to prepare it for modeling.
 - Trained and evaluated multiple regression models to accurately forecast oil production volumes.
 - Created visualizations with Matplotlib to analyze data and present model performance.
