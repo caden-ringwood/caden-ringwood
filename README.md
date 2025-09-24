@@ -37,7 +37,7 @@ Data analysis and machine learning project predicting oil production from well d
 - Performed data cleaning and feature engineering on geological data to prepare it for modeling.
 - Trained and evaluated multiple regression models to accurately forecast oil production volumes.
 - Created visualizations with Matplotlib to analyze data and present model performance.
-[Repo Link](https://github.com/caden-ringwood/Tripple_Ten_Projects/tree/main/Oil-Well-Prediction)**
+[Repo Link](https://github.com/caden-ringwood/Tripple_Ten_Projects/tree/main/Oil-Well-Prediction)
 ---
 ### **Gold Recovery Prediction**
 Machine learning project predicting gold recovery efficiency from ore processing data to optimize production and reduce resource losses.
